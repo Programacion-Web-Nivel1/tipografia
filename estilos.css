@@ -1,0 +1,64 @@
+h1, 
+.fuente_de_google {
+    font-family: 'Open Sans', sans-serif;
+}
+
+b {
+    font-family: 'Freckle Face', cursive;
+}
+
+section {
+    font-size: 8px;
+}
+
+h1 {
+    font-size: 60px;
+    word-spacing: 50px;
+}
+
+p {
+    font-weight: 800;
+}
+
+.oblicua {
+    font-style: oblique;
+    line-height: 40px;
+    text-indent: 50px;
+    letter-spacing: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.decoracion_1 {
+    text-decoration: wavy underline blue;
+}
+
+.decoracion_2 {
+    text-decoration: double line-through green;
+}
+
+.decoracion_3 {
+    text-decoration: solid overline violet;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+.enminusculas {
+    text-transform: lowercase;
+}
+
+.enmayusculas {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-image: url('ok.png');
+    line-height: 60px;
+    color: red;
+    text-transform: uppercase;
+    list-style-position: inside;
+}
